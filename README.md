@@ -1,7 +1,5 @@
 # Hi 👋, I'm Yugal
 
-### A budding Python developer
-
 - 🌱 I'm currently learning **Real world Python projects**
 
 - 👯 I'm looking to collaborate on **Beginner friendly AI / data science projects and open source**
